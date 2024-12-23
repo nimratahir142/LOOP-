@@ -1,0 +1,17 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    color: rgb(1, 1, 68);
+}
+h2{
+    color: rgb(32, 32, 240);
+}
+p{
+    color: rgb(243, 243, 246);
+}
+hr{
+    background-color: blue;
+    height: 3px;
+    border: 2px solid white;
+}
